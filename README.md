@@ -1,5 +1,5 @@
 # Hi there, my name is Arno Snyman 👋.
-[![LINKEDIN][LINKEDIN ICON]][LINKEDIN LINK] 
+[![LINKEDIN][LINKEDIN ICON]][LINKEDIN LINK]  &ensp; [![arnosnyman007@gmail.com][EMAIL ICON]][EMAIL LINK]
 
 ## 🧑🏼‍💼 Role
 Senior Software Developer
@@ -22,12 +22,15 @@ I have worked a bit with Kotlin, but I still need a lot to learn before developi
 🔹 **Senior Java Engineer | _[ABN AMRO](https://www.abnamro.nl/)_** *(2021, 2022)*  
 🔹 **Java Developer | _[First National Bank](https://www.fnb.co.za/)_** *(2018, 2021)*  
 🔹 **COBOL Developer | _[First National Bank](https://www.fnb.co.za/)_** *(2016, 2018)*  
-🔹 **Junior COBOL Developer | _[First National Bank](https://www.fnb.co.za/)_** *(2014, 2026)*  
+🔹 **Junior COBOL Developer | _[First National Bank](https://www.fnb.co.za/)_** *(2014, 2016)*  
 
 I have worked in **banking, government, biopharma, and energy sector**, developing software solutions that impact thousands of users. 
 
 ## 🎓 What an I currently looking to study
 [![KOTLIN][KOTLIN ICON]][KOTLIN LINK] &ensp; [![PYTHON][PYTHON ICON]][PYTHON LINK] &ensp; [![QUARKUS][QUARKUS ICON]][QUARKUS LINK] &ensp; [![KAFKA][KAFKA ICON]][KAFKA LINK]
+
+## 👨🏼‍💻Showcase
+
 
 
 
@@ -53,9 +56,11 @@ Here are some ideas to get you started:
 [PYTHON ICON]: logos/python.png
 [QUARKUS ICON]: logos/quarkus.png
 [KAFKA ICON]: logos/kafka.png
+[EMAIL ICON]: logos/email.png
 
 [LINKEDIN LINK]: https://www.linkedin.com/in/arno-snyman-3b64a935
 [KOTLIN LINK]: https://kotlinlang.org/
 [PYTHON LINK]: https://www.python.org/
 [QUARKUS LINK]: https://quarkus.io/
 [KAFKA LINK]: https://kafka.apache.org/
+[EMAIL LINK]: mailto:arnosnyman007@gmail.com
