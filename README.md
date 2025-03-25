@@ -30,8 +30,8 @@ I have worked in **banking, government, biopharma, and energy sector**, developi
 [![KOTLIN][KOTLIN ICON]][KOTLIN LINK] &ensp; [![PYTHON][PYTHON ICON]][PYTHON LINK] &ensp; [![QUARKUS][QUARKUS ICON]][QUARKUS LINK] &ensp; [![KAFKA][KAFKA ICON]][KAFKA LINK]
 
 ## 👨🏼‍💻Showcase
-
-
+- **[Kotlin Showcase](https://github.com/arnoldus-christiaan-snyman/kotlin-showcase)** - A showcase containing my skills of Kotlin
+- **[Java Showcase](https://github.com/arnoldus-christiaan-snyman/java-showcase)** - A showcase containing my skills of Java
 
 
 <!--
